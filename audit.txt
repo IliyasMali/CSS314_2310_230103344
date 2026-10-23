@@ -1,0 +1,20 @@
+26ce69c - 2026-10-23 17:14:39 +0500 : Add files via upload
+00cceae - 2026-10-23 17:14:28 +0500 : Add files via upload
+8db7ef6 - 2026-10-23 17:14:19 +0500 : Add files via upload
+400ed84 - 2026-10-23 17:14:09 +0500 : Add files via upload
+d2d0508 - 2026-10-23 17:13:52 +0500 : Add files via upload
+b66671a - 2026-10-23 17:13:40 +0500 : Delete lecture
+168eece - 2026-10-23 17:13:33 +0500 : Delete task2 directory
+0613f2f - 2026-10-23 17:13:24 +0500 : Delete task1 directory
+5edff2d - 2026-10-23 17:13:02 +0500 : Add files via upload
+b08a677 - 2026-10-23 17:12:29 +0500 : Add files via upload
+53af82b - 2026-10-23 17:11:34 +0500 : Create task1
+9c8d497 - 2026-10-23 17:07:42 +0500 : Add files via upload
+69da91d - 2026-10-23 17:07:32 +0500 : Add files via upload
+18d20e0 - 2026-10-23 17:07:18 +0500 : Add files via upload
+96c5d42 - 2026-10-23 17:05:02 +0500 : Add files via upload
+cf559cf - 2026-10-23 17:04:51 +0500 : Add files via upload
+0b7e377 - 2026-10-23 17:04:07 +0500 : Add files via upload
+f993e11 - 2026-10-23 17:03:36 +0500 : Add files via upload
+9860d62 - 2026-10-23 17:02:51 +0500 : Create task1
+fa23eba - 2026-10-23 16:53:59 +0500 : lecture
